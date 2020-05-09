@@ -1,4 +1,12 @@
-# `react-router-dom` + `github-pages`
+# `react-router-dom` + `netlify`
+
+## Tips
+
+All we need to do is to create `_redirects` containing below.
+
+```
+/*    /index.html   200
+```
 
 ## Install
 
@@ -40,16 +48,12 @@ yarn gh-pages -d build
 
 Page1
 
-`https://takaonarikawa.github.io/react-router-github-pages-test/`
-
-or
-
-`https://takaonarikawa.github.io/react-router-github-pages-test/#/`
+`https://react-router-netlify-test.netlify.app/`
 
 Page2
 
-`https://takaonarikawa.github.io/react-router-github-pages-test/#/page2`
+`https://react-router-netlify-test.netlify.app/page2`
 
 Page3
 
-`https://takaonarikawa.github.io/react-router-github-pages-test/#/page3`
+`https://react-router-netlify-test.netlify.app/page3`
