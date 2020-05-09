@@ -2,7 +2,7 @@
 
 ## Tips
 
-All we need to do is to create `_redirects` containing below.
+All we need to do is to create `public/_redirects` containing below.
 
 ```
 /*    /index.html   200
