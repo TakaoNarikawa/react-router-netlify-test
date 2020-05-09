@@ -1,4 +1,4 @@
-# `react-router-dom` + `netlify`
+# react-router-dom + netlify
 
 ## Tips
 
