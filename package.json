@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://takaonarikawa.github.io/",
+  "homepage": "https://react-router-netlify-test.netlify.app",
   "eslintConfig": {
     "extends": "react-app"
   },
