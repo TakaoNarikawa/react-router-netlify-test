@@ -21,12 +21,6 @@ yarn add --dev gh-pages
 yarn react-scripts build
 ```
 
-## Deploy
-
-```
-yarn gh-pages -d build
-```
-
 ## Routing
 
 ```
