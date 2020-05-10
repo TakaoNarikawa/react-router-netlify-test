@@ -27,7 +27,7 @@ function Routes() {
 function App() {
   return (
     <>
-      react-router-github-pages-test
+      react-router-netlify-test
       <Router>
         <Routes />
       </Router>
